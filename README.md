@@ -8,10 +8,7 @@
 
 ## Screenshots
 
-```bash
-https://drive.google.com/drive/folders/1UusrKtZYs5ef59puIm0nGAZDqrbvqGXm?usp=sharing
-```
-
+Link : https://drive.google.com/drive/folders/1UusrKtZYs5ef59puIm0nGAZDqrbvqGXm?usp=sharing
 
 
 
